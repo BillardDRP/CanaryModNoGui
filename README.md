@@ -1,6 +1,7 @@
 # CanaryModNoGui
 Run CanaryMod in Terminal on Mac to reduce lag
 Original script by [Charles](https://github.com/Charles6)
+#### Travis: [![Build Status](https://travis-ci.org/BillardDRP/CanaryModNoGui.svg?branch=master)](https://travis-ci.org/BillardDRP/CanaryModNoGui)
 
 # How to install:
 Drop startOSX.command in your canarymod folder.
