@@ -1,1 +1,1 @@
-chmod 777 startOSX
+chmod 777 startOSX.command
